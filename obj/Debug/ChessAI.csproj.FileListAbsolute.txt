@@ -1,0 +1,7 @@
+C:\Users\sande\source\repos\ChessAI\bin\Debug\ChessAI.exe.config
+C:\Users\sande\source\repos\ChessAI\bin\Debug\ChessAI.exe
+C:\Users\sande\source\repos\ChessAI\bin\Debug\ChessAI.pdb
+C:\Users\sande\source\repos\ChessAI\obj\Debug\ChessAI.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\ChessAI\obj\Debug\ChessAI.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\ChessAI\obj\Debug\ChessAI.exe
+C:\Users\sande\source\repos\ChessAI\obj\Debug\ChessAI.pdb
